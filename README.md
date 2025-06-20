@@ -7,9 +7,6 @@ Build a simple full-stack Task Manager web application with:
 
 No authentication or user management is required.
 
-> Demo 
-> Link :  https://chaitanya-task-manager.netlify.app/
-
 ### Usage 
 
 ``` 
