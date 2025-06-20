@@ -6,7 +6,6 @@ Build a simple full-stack Task Manager web application with:
 - A minimal functional frontend using React.JS.
 
 No authentication or user management is required.
-
 ### Usage 
 
 ``` 
